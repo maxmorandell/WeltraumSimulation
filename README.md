@@ -1,5 +1,6 @@
-Unsere WeltraumSimulation!
-Leider keine GitHub-Historie, da immer ein Fehler auftrat:
+WeltraumSimulation von Stefan Plattner & Max Morandell
+______________________________________________________
 
-"Commit nicht möglich, da Dateien in anderem Prozess geöffnet"
-------------------------------------------------------------------
+Known Bugs: Gegner werden nicht stärker, sondern die Stärke wird immer zufällig bestimmt!
+
+Arbeitsaufteilung: 50/50
